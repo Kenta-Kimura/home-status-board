@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ok",
+    "label": "OK",
+    "description": "Available",
+    "autoClearable": false
+  },
+  {
+    "id": "dnd",
+    "label": "Don’t disturb",
+    "description": "Needs quiet time",
+    "autoClearable": true
+  },
+  {
+    "id": "penguin",
+    "label": "Penguin",
+    "description": "Feeling penguin",
+    "autoClearable": false
+  }
+]
